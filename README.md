@@ -29,9 +29,6 @@ Resources for keeping pinned gists updated.
 
 - [gist-box](https://github.com/JasonEtco/gist-box) - A helper class for updating single-file Gists
 
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## License
 
