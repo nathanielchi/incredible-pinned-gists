@@ -22,6 +22,7 @@ Displaying more detailed GitHub user data in a pinned gist.
 
 - [activity-box](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user
 -  [github-stats-box](https://github.com/bokub/github-stats-box) 📌 Update a gist to contain your GitHub stats
+-  [github-stats-box](https://github.com/nathanielchi/github-stats-box) 📌 Update a gist to contain your GitHub stats
 
 ## Resources
 
